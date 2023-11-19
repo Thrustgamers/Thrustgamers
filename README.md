@@ -33,8 +33,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=black&style=for-the-badge" height="30" alt="sequelize logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Atom-66595C?logo=atom&logoColor=white&style=for-the-badge" height="30" alt="atom logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="30" alt="discord logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
