@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- React_Fiber (public)<br>- Tauri App (Private)<br>- Warehouse Management App (private)</p>
+<p align="left">- Extending Typescript knowledge<br>- Extending Golang knowledge<br>- Extending Rust knowledge</p>
 
 ###
 
