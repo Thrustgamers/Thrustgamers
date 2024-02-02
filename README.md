@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">Currently working on</h2>
+<h2 align="left">Currently extending knowlegde on:</h2>
 
 ###
 
-<p align="left">- Extending Typescript knowledge<br>- Extending Golang knowledge<br>- Extending Rust knowledge</p>
+<p align="left">- Typescript<br>- Golang<br>- Rust</p>
 
 ###
 
