@@ -1,28 +1,19 @@
-name: Waka Readme
+name: WakaTime status update
 
 on:
-  # for manual workflow trigger
-  workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 4 * * *"
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update the WakaTime Stat
     runs-on: ubuntu-latest
     steps:
-        # this action name
-      - uses: athul/waka-readme@master # do NOT replace with anything else
+      # Use avinal/Profile-Readme-WakaTime@<latest-release-tag> for latest stable release
+      # Do not change the line below until you have forked this repository
+      # If you have forked this project you can use <username>/Profile-Readme-WakaTime@master instead
+      - uses: avinal/Profile-Readme-WakaTime@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
-          ### content
-          SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          BLOCKS: -> # optional
-          TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          BRANCH: "main"
+          STATS_RANGE: "all_time"
