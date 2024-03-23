@@ -45,7 +45,10 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thrustgamers&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@81fc6a55-00e9-44a0-af36-d8740dfd90ce/6a1b5ec2-40cf-4ba8-8a7a-b47aaa4d4b9d.png" /></a>
+  <br clear="both">
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@81fc6a55-00e9-44a0-af36-d8740dfd90ce/60d4aa98-e3d7-47da-8b2f-def8928036c9.png" /></a>
+
 </div>
 
 ###
