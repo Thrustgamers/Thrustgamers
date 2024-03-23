@@ -45,10 +45,9 @@
 <br clear="both">
 
 <div align="left">
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@81fc6a55-00e9-44a0-af36-d8740dfd90ce/6a1b5ec2-40cf-4ba8-8a7a-b47aaa4d4b9d.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@81fc6a55-00e9-44a0-af36-d8740dfd90ce/4ed9d24c-e6f1-41a7-8cd3-f9503f89d4cb.png" /></a>
   <br clear="both">
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@81fc6a55-00e9-44a0-af36-d8740dfd90ce/60d4aa98-e3d7-47da-8b2f-def8928036c9.png" /></a>
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@81fc6a55-00e9-44a0-af36-d8740dfd90ce/a07f6d70-23f3-4f19-8a6b-4db0a6c99f1f.png" /></a>
 </div>
 
 ###
