@@ -44,9 +44,10 @@
 
 <br clear="both">
 
-<img
-  src="https://github.com/Thrustgamers/Thrustgamers/blob/main/images/stat.svg"
-  alt="Thrustgamers WakaTime Activity"
-/>
+<div align="left">
+<figure><embed src="https://wakatime.com/share/@81fc6a55-00e9-44a0-af36-d8740dfd90ce/2c3d4097-ccf4-4f5f-8b92-cdcab76dce11.svg"></embed></figure>
+  <br clear="both">
+<figure><embed src="https://wakatime.com/share/@81fc6a55-00e9-44a0-af36-d8740dfd90ce/4618859b-c2ec-4d4a-8d31-150686cbf5da.svg"></embed></figure>
+</div>
 
 ###
