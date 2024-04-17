@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Originated from:  The Netherlands <br>- Currently learning: Golang</p>
+<p align="left">- Originated from:  The Netherlands <br>- Currently learning: Zig</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Typescript<br>- Golang<br>- Rust</p>
+<p align="left">- Zig<br>- Nim<br>- Rust</p>
 
 ###
 
