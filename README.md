@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Originated from:  The Netherlands <br>- Currently learning: Zig</p>
+<p align="left">- Originated from:  The Netherlands </p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Zig<br>- Nim<br>- Rust</p>
+<p align="left">- Typescript<br>- Golang<br>- Rust</p>
 
 ###
 
@@ -44,8 +44,6 @@
 
 <br clear="both">
 
-<div align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=thrustgamers&count_private=true&theme=tokyonight&show_icons=true" />
 
-</div>
-
-###
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrustgamers&count_private=true&langs_count=3&theme=tokyonight" />
