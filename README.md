@@ -45,9 +45,9 @@
 <br clear="both">
 
 <div align="left">
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=thrustgamers&count_private=true&theme=tokyonight&showicons=true)]()
+[My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=thrustgamers&count_private=true&theme=tokyonight&showicons=true)
   <br clear="both">
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thrustgamers&langs_count=10&theme=tokyonight)]()
+[My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thrustgamers&langs_count=10&theme=tokyonight)
 </div>
 
 ###
